@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# This is a demo dashboard for the world pandemic Sars-Cov-2 (corona virus or otherwise know as covid-19)
+
+## Live Demo (<https://covid-dashboard-miastudios.web.app>)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
