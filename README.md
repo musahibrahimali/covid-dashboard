@@ -1,5 +1,7 @@
 # This is a demo dashboard for the world pandemic Sars-Cov-2 (corona virus or otherwise know as covid-19)
 
+![Screenshot](Screenshot.png)
+
 ## Live Demo (<https://covid-dashboard-miastudios.web.app>)
 
 ## Getting Started with Create React App
